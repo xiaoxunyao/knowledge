@@ -6,13 +6,13 @@
   "author": "Elone Hoo",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.35"
+    "vuepress": "^2.0.0-rc.19"
   },
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
   },
   "dependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-beta.35"
+    "@vuepress/plugin-docsearch": "^2.0.0-rc.0"
   }
 }
